@@ -7,6 +7,10 @@
 <p align="center">설치 없이 바로 쓰는, 가볍고 빠른 Windows 화면 녹화 프로그램</p>
 
 <p align="center">
+  <b>한국어</b> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/vel-apps/velcap/releases/latest"><b>⬇ 최신 버전 다운로드</b></a>
 </p>
 
@@ -23,6 +27,7 @@
 - **스크린샷** — 영역을 골라 PNG로 저장하고 클립보드에도 복사합니다.
 - **웹캠** — 화면 속 화면으로 넣고, 배경을 흐리게 하거나 지울 수 있습니다.
 - **녹화 자동 복구** — 녹화 중에 프로그램이 꺼져도 다음 실행 때 녹화된 부분을 되살립니다.
+- **한국어 · 영어** — Windows 표시 언어를 따르고, 설정에서 직접 고를 수도 있습니다.
 
 | | |
 |---|---|
@@ -57,6 +62,7 @@
 | `Ctrl` + `Alt` + `W` | 웹캠 보이기 / 숨기기 |
 
 - 녹화 파일과 스크린샷은 `내 동영상\Velcap`에 저장됩니다(설정에서 변경).
+- 언어: 설정 → 언어 (Windows 설정 따름 / 한국어 / English)
 - 설정은 `%APPDATA%\Velcap`에 저장됩니다.
 - 제거: 압축을 푼 폴더를 지우면 됩니다. 설정까지 지우려면 `%APPDATA%\Velcap` 폴더도 지웁니다.
 
